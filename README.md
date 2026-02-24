@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aqeel Ahmed</h1>
-<h3 align="center">BS Computer Science Graduate | Software Developer | Data Entry Specialist</h3>
+<h3 align="center">BS Computer Science Graduate | Software Developer t</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Aqeel201&label=Profile%20views&color=0e75b6&style=flat">
@@ -12,13 +12,11 @@
 - Based in Skardu, Pakistan
 - BS Computer Science graduate (University of Baltistan, 2021-2025)
 - Strong in Python, C++, Java, React Native, Node.js
-- 1+ year experience in accurate data entry and database handling
 - Interested in software development, data management, and practical problem solving
 
 ## Professional Experience
 
 - Intern (Software/App Development): React Native and Node.js application development, testing, and optimization
-- Data Entry Operator: high-volume data handling, verification, and quality control
 - Media Team Member: digital content design and social media management
 
 ## Featured Projects
