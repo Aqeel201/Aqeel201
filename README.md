@@ -10,11 +10,20 @@
 
 ## About Me
 
-Computer Science graduate focused on software development with hands-on experience in React Native and Node.js applications. I build reliable, user-friendly solutions and follow clean engineering practices.
-
-- Location: Skardu, Pakistan
-- Focus: Mobile apps, backend APIs, and practical full-stack development
-- Goal: Junior Software Developer role
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      Computer Science graduate focused on software development with hands-on experience in React Native and Node.js applications. I build reliable, user-friendly solutions and follow clean engineering practices.
+      <br /><br />
+      - Location: Skardu, Pakistan<br />
+      - Focus: Mobile apps, backend APIs, and practical full-stack development<br />
+      - Goal: Junior Software Developer role
+    </td>
+    <td width="38%" align="right">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="280" />
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
