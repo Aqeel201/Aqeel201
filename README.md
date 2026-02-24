@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=0E75B6&center=true&vCenter=true&width=680&lines=Building+clean+and+practical+software;React+Native+%7C+Node.js+%7C+Python+%7C+TypeScript;Open+to+Junior+Software+Developer+roles" alt="Typing Intro" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aqeel201&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Aqeel201?label=Followers&style=flat&color=0e75b6" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Work-0e75b6" alt="Open to Work" />
