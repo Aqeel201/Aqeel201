@@ -1,8 +1,13 @@
-<h1 align="center">Aqeel Ahmed</h1>
-<h3 align="center">Software Developer | React Native | Node.js | Python</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,45:1E3A8A,100:0F172A&height=220&section=header&text=Aqeel%20Ahmed&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20React%20Native%20%7C%20Node.js%20%7C%20Python&descAlignY=60&descSize=16" alt="Header" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Building+clean+and+practical+software;React+Native+%7C+Node.js+%7C+Python+%7C+Java;Open+to+Junior+Software+Developer+roles" alt="Typing Intro" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding" />
 </p>
 
 <p align="center">
@@ -56,16 +61,16 @@ Computer Science graduate focused on software development with hands-on experien
 
 <p>
   <a href="https://www.linkedin.com/in/aqeel-ahmed-702854265/" target="_blank">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="LinkedIn" width="28" height="28" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Aqee201@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" alt="Email" width="28" height="28" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.facebook.com/AqeelAhmed633" target="_blank">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/facebook.svg" alt="Facebook" width="28" height="28" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://wa.me/923499535156" target="_blank">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" alt="WhatsApp" width="28" height="28" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
