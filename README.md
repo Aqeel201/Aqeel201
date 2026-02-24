@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,45:1E3A8A,100:0F172A&height=220&section=header&text=Aqeel%20Ahmed&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20React%20Native%20%7C%20Node.js%20%7C%20Python&descAlignY=60&descSize=16" alt="Header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Building+clean+and+practical+software;React+Native+%7C+Node.js+%7C+Python+%7C+Java;Open+to+Junior+Software+Developer+roles" alt="Typing Intro" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,50:1D4ED8,100:0F172A&height=180&section=header&text=Aqeel%20Ahmed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20React%20Native%20%7C%20Node.js%20%7C%20Python&descAlignY=60&descSize=15" alt="Header" />
 </p>
 
 <p align="center">
@@ -16,9 +8,13 @@
   <img src="https://img.shields.io/badge/Open%20to-Work-0e75b6" alt="Open to Work" />
 </p>
 
-## Professional Summary
+## About Me
 
 Computer Science graduate focused on software development with hands-on experience in React Native and Node.js applications. I build reliable, user-friendly solutions and follow clean engineering practices.
+
+- Location: Skardu, Pakistan
+- Focus: Mobile apps, backend APIs, and practical full-stack development
+- Goal: Junior Software Developer role
 
 ## Tech Stack
 
@@ -32,7 +28,7 @@ Computer Science graduate focused on software development with hands-on experien
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,mongodb,mysql,html,css,git,github,vscode" alt="Skill Icons" />
 </p>
 
-## Experience Highlights
+## Experience
 
 - Software/App Development Intern: Developed, tested, and optimized app features using React Native and Node.js
 - Media Team Member: Designed digital content and maintained visual consistency for campaigns
@@ -54,12 +50,12 @@ Computer Science graduate focused on software development with hands-on experien
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aqeel201&hide_border=true&background=FFFFFF&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Aqeel201&hide_border=true&background=FFFFFF&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" width="88%" />
 </p>
 
 ## Connect With Me
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/aqeel-ahmed-702854265/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
