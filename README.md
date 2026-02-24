@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aqeel Ahmed</h1>
-<h3 align="center">BS Computer Science Graduate | Software Developer t</h3>
+<h3 align="center">BS Computer Science Graduate | Software Developer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Aqeel201&label=Profile%20views&color=0e75b6&style=flat">
