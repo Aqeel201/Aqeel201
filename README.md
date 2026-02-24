@@ -1,8 +1,8 @@
 <h1 align="center">Aqeel Ahmed</h1>
-<h3 align="center">Software Developer | React Native & Node.js | Data Accuracy Specialist</h3>
+<h3 align="center">Software Developer | React Native | Node.js | Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Building+practical+apps+with+clean+UX;Strong+in+React+Native%2C+Node.js%2C+Python%2C+Java;Open+to+Junior+Software+Developer+roles" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Building+clean+and+practical+software;React+Native+%7C+Node.js+%7C+Python+%7C+Java;Open+to+Junior+Software+Developer+roles" alt="Typing Intro" />
 </p>
 
 <p align="center">
@@ -13,22 +13,15 @@
 
 ## Professional Summary
 
-Dedicated Computer Science graduate with hands-on experience in software development and data management. I build useful applications with React Native and Node.js, and I focus on clean implementation, performance, and data quality.
+Computer Science graduate focused on software development with hands-on experience in React Native and Node.js applications. I build reliable, user-friendly solutions and follow clean engineering practices.
 
-## What I Am Working On
-
-- Improving mobile-first application development skills (React Native ecosystem)
-- Building full-stack projects with Node.js, MongoDB/MySQL
-- Strengthening ML fundamentals with practical sentiment analysis workflows
-
-## Core Skills
+## Tech Stack
 
 - Languages: Python, C++, Java, JavaScript
-- Mobile/Web: React Native, HTML, CSS
+- Frontend/Mobile: React Native, HTML, CSS
 - Backend: Node.js, REST APIs
 - Databases: MongoDB, MySQL
-- Tools: Git, GitHub, VS Code, MS Excel
-- Additional: Data Entry, Data Validation, Technical Documentation
+- Tools: Git, GitHub, VS Code
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,mongodb,mysql,html,css,git,github,vscode" alt="Skill Icons" />
@@ -36,43 +29,27 @@ Dedicated Computer Science graduate with hands-on experience in software develop
 
 ## Experience Highlights
 
-- Software/App Development Intern: Built and tested features using React Native and Node.js
-- Data Entry Operator: Managed large datasets with high accuracy and consistency
-- Media Team Member: Designed digital content and maintained branding quality
+- Software/App Development Intern: Developed, tested, and optimized app features using React Native and Node.js
+- Media Team Member: Designed digital content and maintained visual consistency for campaigns
 
 ## Featured Projects
 
 ### 1. Medical Store App
 - Stack: React Native, Node.js
-- Built category-wise product browsing, search, navigation, and dark mode support
+- Features: category-wise browsing, search, navigation, dark mode
 
 ### 2. Twitter Sentiment Analysis
 - Stack: Python, Scikit-learn, NLTK
-- Implemented sentiment classification pipeline with text preprocessing and model-based prediction
+- Features: preprocessing pipeline and sentiment classification workflow
 
 ### 3. Snake Game
 - Stack: Java, Swing
-- Developed interactive gameplay and score tracking with object-oriented design
+- Features: interactive gameplay with score tracking
 
-## GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aqeel201&show_icons=true&hide_border=true&rank_icon=github&title_color=0e75b6&icon_color=0e75b6&text_color=1f2937&bg_color=ffffff" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Aqeel201&hide_border=true&background=FFFFFF&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
-</p>
+## GitHub Activity
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqeel201&layout=compact&hide_border=true&title_color=0e75b6&text_color=1f2937&bg_color=ffffff" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aqeel201&theme=flat&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies" />
-</p>
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aqeel201/Aqeel201/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://streak-stats.demolab.com?user=Aqeel201&hide_border=true&background=FFFFFF&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
 </p>
 
 ## Connect With Me
